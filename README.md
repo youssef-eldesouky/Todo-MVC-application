@@ -77,4 +77,4 @@ This project is open source and available under the MIT License.
 Feel free to fork this repository and submit pull requests to contribute to this project.
 
 ## ⭐ Show your support
-Give a ⭐️ if this project helped you! ```
+Give a ⭐️ if this project helped you!
