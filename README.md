@@ -47,3 +47,34 @@ pip install flask
 ```bash
 python setup.py
 ```
+
+## 💻 Usage
+
+1. Start the application
+```bash
+python app.py
+```
+
+2. Open your web browser and navigate to ```http://localhost:5000```
+
+## 📁 Project Structure
+
+todo_mvc/
+│
+├── app.py              # Main Flask application
+├── models.py           # Database models and operations
+├── setup.py           # Database initialization script
+├── tasks.db           # SQLite database
+│
+└── templates/
+    └── index.html     # Main template file
+
+
+## 📝 License
+This project is open source and available under the MIT License.
+
+## 🤝 Contributing
+Feel free to fork this repository and submit pull requests to contribute to this project.
+
+## ⭐ Show your support
+Give a ⭐️ if this project helped you! ```
