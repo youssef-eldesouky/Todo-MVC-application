@@ -1,6 +1,6 @@
 # Todo MVC Application
 
-A simple, clean Todo application built with Flask, SQLite and "" using the Model-View-Controller (MVC) design pattern. . This application allows users to create, manage, and track their tasks with a straightforward interface.
+A simple, clean Todo application built with Flask, SQLite and Jinja2 using the Model-View-Controller (MVC) design pattern. . This application allows users to create, manage, and track their tasks with a straightforward interface.
 
 ## 🚀 Technologies Used
 
