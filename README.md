@@ -58,7 +58,7 @@ python app.py
 2. Open your web browser and navigate to ```http://localhost:5000```
 
 ## 📁 Project Structure
-
+```
 todo_mvc/
 │
 ├── app.py              # Main Flask application
@@ -68,7 +68,7 @@ todo_mvc/
 │
 └── templates/
     └── index.html     # Main template file
-
+```
 
 ## 📝 License
 This project is open source and available under the MIT License.
